@@ -8,7 +8,7 @@ The goal of this project is to demonstrate how raw operational data from differe
 
 ---
 
-🗂 Data Sources
+#🗂 Data Sources
 
 The data used in this project comes from two business systems:
 
