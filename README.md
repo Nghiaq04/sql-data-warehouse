@@ -52,6 +52,7 @@ These datasets represent key business entities such as:
 
 ---
 
+
 # 🏗 Data Architecture
 
 The project follows the **Medallion Architecture**, consisting of three layers:
@@ -174,3 +175,4 @@ It is designed as a **hands-on learning project** for students and professionals
 * Data Analytics
 * Data Architecture
 * Business Intelligence
+  
