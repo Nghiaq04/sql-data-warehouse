@@ -8,7 +8,7 @@ The goal of this project is to demonstrate how raw operational data from differe
 
 ---
 
-#🗂 Data Sources
+# 🗂 Data Sources
 
 The data used in this project comes from two business systems:
 
@@ -40,7 +40,7 @@ Product categories
 Customer locations
 
 ---
-🏗 Data Architecture
+# 🏗 Data Architecture
 
 The project follows the Medallion Architecture with three layers:
 
@@ -67,7 +67,7 @@ Enable data traceability
 Provide a backup of source data
 
 ---
-🥈 Silver Layer – Cleaned & Standardized Data
+# 🥈 Silver Layer – Cleaned & Standardized Data
 
 The Silver layer performs data cleaning and transformation.
 
@@ -88,7 +88,7 @@ Data normalization
 At this stage, the data becomes consistent and analysis-ready.
 
 ---
-🥇 Gold Layer – Business-Ready Data
+# 🥇 Gold Layer – Business-Ready Data
 
 The Gold layer contains analytical data models optimized for reporting and analytics.
 
@@ -119,7 +119,7 @@ Analytical queries
 Data exploration
 
 ---
-📊 Analytics Use Cases
+# 📊 Analytics Use Cases
 
 The data warehouse enables analysis across several business domains:
 
@@ -147,7 +147,7 @@ Order and shipment performance
 
 Revenue and quantity analysis
 
-⚙️ Technologies Used
+# ⚙️ Technologies Used
 
 SQL development using Microsoft SQL Server
 
@@ -158,7 +158,7 @@ ETL processes implemented using SQL
 Data modeling techniques used in Data Warehouse systems
 
 ---
-🎯 Learning Objectives
+# 🎯 Learning Objectives
 
 This project demonstrates practical skills in:
 
