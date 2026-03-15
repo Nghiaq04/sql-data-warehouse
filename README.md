@@ -1,6 +1,6 @@
 # sql-data-warehouse
 Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics.
-📖 Project Overview
+# 📖 Project Overview
 
 This project focuses on building a modern Data Warehouse using Microsoft SQL Server to consolidate and transform sales data from multiple source systems for analytical reporting.
 
@@ -12,9 +12,9 @@ The goal of this project is to demonstrate how raw operational data from differe
 
 The data used in this project comes from two business systems:
 
-Customer Relationship Management
+- Customer Relationship Management
 
-Enterprise Resource Planning
+- Enterprise Resource Planning
 
 These systems provide operational data exported as CSV files, which are ingested into the data warehouse.
 
