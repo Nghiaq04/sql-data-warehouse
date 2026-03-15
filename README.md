@@ -174,7 +174,3 @@ It is designed as a **hands-on learning project** for students and professionals
 * Data Analytics
 * Data Architecture
 * Business Intelligence
-
-
-* **Star Schema cho Gold Layer**
-* **README nhìn giống project senior Data Engineer trên GitHub** (rất đẹp cho CV).
